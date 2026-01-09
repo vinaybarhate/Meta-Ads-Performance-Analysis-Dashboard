@@ -51,10 +51,10 @@ The dashboard tracks the following key performance indicators using custom DAX m
 - ## 🖼 Dashboard Preview
 
 ### Impressions Analysis
-![Impressions Dashboard](SCREENSHOTS/impressions_dashboard.png)
+![Impressions Dashboard](SCREENSHOTS/Facebook_dashboard.png)
 
 ### Shares Analysis
-![Shares Dashboard](SCREENSHOTS/shares_dashboard.png)
+![Shares Dashboard](SCREENSHOTS/Instagram_dashboard.png)
 
 
 ## ▶️ How to Use This Project
